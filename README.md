@@ -46,3 +46,4 @@ while run:
     pygame.draw.rect(win,(224,108,117),(x,y,width,height))
     pygame.display.update()#обновление экрана
 pygame.quit()
+Антон лох
